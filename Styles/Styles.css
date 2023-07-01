@@ -151,8 +151,8 @@ body {
   margin-top: 300px;
   margin-left: 10px;
   margin-right: 10px;
- }
- 
+}
+
 .footer-list {
   font-style: normal;
   font-weight: normal;
@@ -171,6 +171,7 @@ body {
 .photo {
   width: 370px;
   margin-bottom: 50px;
+  border-radius: 50%;
 }
 .contacts,
 .tech-skills,
