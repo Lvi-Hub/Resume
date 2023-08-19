@@ -13,12 +13,12 @@ body {
 .main-content {
   background-color: #fff;
   box-shadow: 6px 6px 20px rgba(0, 0, 0, 0.1);
-  padding: 105px 90px;
+  padding: 20px 90px;
 }
 
 /* About styles */
 .about {
-  margin-bottom: 40px;
+  margin-bottom: 10px;
 }
 .about-position {
   font-style: normal;
@@ -94,7 +94,7 @@ body {
 }
 .project-link {
   margin-left: 10px;
-  margin-right: 50px;
+  margin-right: 30px;
 }
 .project-brecket {
   font-style: normal;
@@ -104,6 +104,9 @@ body {
   color: #000000;
 }
 
+.git-link {
+  padding-left: 30px;
+}
 /*Work styles*/
 /* .work{}  */
 .work-position {
